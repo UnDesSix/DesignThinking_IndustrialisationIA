@@ -6,7 +6,7 @@ Ce cours s'organisera en modules combinant théorie et pratique :
 
 1. **Fondamentaux** : Principes du Design Thinking et bases de l'IA
 2. **Études de cas** : Analyse de projets d'IA industrialisés réussis
-3. **Ateliers pratiques** : Application de la méthode à des problématiques réelles
+3. **Ateliers pratiques** : Application de la méthode à des problématiques réelles avec emise en situation
 4. **Évaluation** : Développement d'un projet de bout en bout
 
 
